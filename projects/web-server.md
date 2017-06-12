@@ -1,0 +1,26 @@
+---
+layout: page
+title: "Static web server"
+---
+
+This project was a multithreaded static web server written purely in Ruby, which
+was developed to learn about the HTTP protocol and the underpinnings of the
+Ruby on Rails framework.
+
+Creating a connection through sockets, the server reads and parses HTTP
+requests from a client, performs a series of operations, and returns an HTTP
+response with the appropriate status code and resource (if applicable).
+The project lasted from February to April 2016.
+
+
+
+**Concepts:**
+* Hypertext Transfer Protocol (HTTP)
+* Client-server architecture
+
+**Technologies:**
+* Ruby, HTML
+
+**See more:**
+* [View on Github](https://github.com/lierluis/667-web-server)
+* [Original documentation](https://goo.gl/0d0PWk)
