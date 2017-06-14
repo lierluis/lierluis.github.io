@@ -35,3 +35,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+google_analytics: UA-101001911-1
