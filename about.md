@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+navbar: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a software engineer looking to start my career in the software industry.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I graduated from San Francisco State University with a B.S. in Computer Science.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In school I worked on a few team projects, from being a front-end developer
+to being technical lead.
+
+Check out [my projects] to learn more.
+
+[my projects]: {{ site.url }}{% link projects/projects.md %}
