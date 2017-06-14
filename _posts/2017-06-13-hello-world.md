@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello world!"
 categories: blog
+comments: true
 ---
 
 Welcome to my website!
