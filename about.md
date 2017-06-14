@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 navbar: true
+order: 1
 ---
 
 I'm a software engineer looking to start my career in the software industry.
