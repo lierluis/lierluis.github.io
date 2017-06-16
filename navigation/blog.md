@@ -2,5 +2,5 @@
 layout: blog
 title: Blog
 navbar: true
-order: 5
+order: 3
 ---
