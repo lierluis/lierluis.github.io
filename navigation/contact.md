@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 navbar: true
-order: 3
+order: 4
 ---
 
 <form method="POST" action="http://formspree.io/luis.es@yahoo.com">

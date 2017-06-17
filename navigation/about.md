@@ -15,4 +15,4 @@ to being technical lead.
 
 Check out [my projects] to learn more.
 
-[my projects]: {{ site.url }}{% link projects/projects.md %}
+[my projects]: {{ site.url }}{% link navigation/projects.md %}

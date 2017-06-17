@@ -24,5 +24,5 @@ You can also check out my [Projects].
 
 Thanks for stopping by!
 
-[About]: {{ site.url }}{% link about.md %}
-[Projects]: {{ site.url }}{% link projects/projects.md %}
+[About]: {{ site.url }}{% link navigation/about.md %}
+[Projects]: {{ site.url }}{% link navigation/projects.md %}
