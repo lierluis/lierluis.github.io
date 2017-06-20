@@ -1,11 +1,11 @@
-<section class="hero is-primary">
+<section class="hero is-primary is-bold is-medium">
   <div class="hero-body">
-    <div class="container">
+    <div class="container has-text-centered">
       <h1 class="title">
-        Title
+        {{ page.title | default: site.title }}
       </h1>
       <h2 class="subtitle">
-        Subtitle
+        {{ page.subtitle | default: page.description | default: site.description }}
       </h2>
     </div>
   </div>
