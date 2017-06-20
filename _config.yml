@@ -30,7 +30,7 @@ github_username:  lierluis
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
   - jemoji
