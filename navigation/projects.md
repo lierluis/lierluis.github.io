@@ -2,8 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-navbar: true
-order: 2
 ---
 
 <ul>
