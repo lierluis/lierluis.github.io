@@ -1,55 +1,55 @@
 <nav class="nav has-shadow">
+  <div class="container">
+    <div class="nav-left">
+      <a class="nav-item" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+    </div>
 
-  <div class="nav-left">
-    <a class="nav-item" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }}
-    </a>
+    <div class="nav-center">
+      <a class="nav-item" href="https://github.com/{{ site.github_username }}">
+        <span class="icon">
+          <i class="fa fa-github"></i>
+        </span>
+      </a>
+      <a class="nav-item" href="https://twitter.com/{{ site.twitter_username }}">
+        <span class="icon">
+          <i class="fa fa-twitter"></i>
+        </span>
+      </a>
+      <a class="nav-item" href="https://linkedin.com/in/{{ site.linkedin_username }}">
+        <span class="icon">
+          <i class="fa fa-linkedin"></i>
+        </span>
+      </a>
+    </div>
+
+    <!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+    <span class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </span>
+
+    <!-- This "nav-menu" is hidden on mobile -->
+    <!-- Add the modifier "is-active" to display it on mobile -->
+    <div class="nav-right nav-menu">
+      <a class="nav-item is-tab" href="{{ "/" | relative_url }}">
+        Home
+      </a>
+      <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/about.md %}">
+        About
+      </a>
+      <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/projects.md %}">
+        Projects
+      </a>
+      <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/blog.md %}">
+        Blog
+      </a>
+      <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/contact.md %}">
+        Contact
+      </a>
+    </div>
   </div>
-
-  <div class="nav-center">
-    <a class="nav-item" href="https://github.com/{{ site.github_username }}">
-      <span class="icon">
-        <i class="fa fa-github"></i>
-      </span>
-    </a>
-    <a class="nav-item" href="https://twitter.com/{{ site.twitter_username }}">
-      <span class="icon">
-        <i class="fa fa-twitter"></i>
-      </span>
-    </a>
-    <a class="nav-item" href="https://linkedin.com/in/{{ site.linkedin_username }}">
-      <span class="icon">
-        <i class="fa fa-linkedin"></i>
-      </span>
-    </a>
-  </div>
-
-  <!-- This "nav-toggle" hamburger menu is only visible on mobile -->
-  <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
-  <span class="nav-toggle">
-    <span></span>
-    <span></span>
-    <span></span>
-  </span>
-
-  <!-- This "nav-menu" is hidden on mobile -->
-  <!-- Add the modifier "is-active" to display it on mobile -->
-  <div class="nav-right nav-menu">
-    <a class="nav-item is-tab" href="{{ "/" | relative_url }}">
-      Home
-    </a>
-    <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/about.md %}">
-      About
-    </a>
-    <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/projects.md %}">
-      Projects
-    </a>
-    <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/blog.md %}">
-      Blog
-    </a>
-    <a class="nav-item is-tab" href="{{ site.baseurl }}{% link navigation/contact.md %}">
-      Contact
-    </a>
-  </div>
-
 </nav>
