@@ -1,4 +1,16 @@
 ---
 ---
 
-@import 'normalize';
+// base
+@import 'bulma/utilities/_all';
+@import 'bulma/base/_all';
+@import 'bulma/layout/_all';
+
+// components
+@import 'bulma/components/nav';
+
+// elements
+@import 'bulma/elements/content';
+@import 'bulma/elements/other';
+@import 'bulma/elements/title';
+@import 'bulma/elements/form';
