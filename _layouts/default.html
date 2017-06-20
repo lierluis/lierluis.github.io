@@ -5,17 +5,15 @@
 
   <body>
 
-    {% include header.html %}
+    {% include nav.html %}
 
-    {% if page.banner %}
-      {% include cayman-header.html %}
-    {% endif %}
+    <div class="container">
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
 
-    <section class="main-content">
-      {{ content }}
-
-      {% include cayman-footer.html %}
-    </section>
+    {% include footer.html %}
 
   </body>
 
