@@ -6,7 +6,9 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}"> <!-- custom -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.2/css/bulma.css"> <!-- Bulma -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- Font Awesome -->
   <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | relative_url }}" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
