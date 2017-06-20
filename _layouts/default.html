@@ -7,17 +7,7 @@
 
     {% include nav.html %}
 
-    {% if page.banner %}
-      {% include hero.html %}
-    {% endif %}
-
-    <section class="section">
-      <div class="container">
-        <div class="content">
-          {{ content }}
-        </div>
-      </div>
-    </section>
+    {{ content }}
 
     {% include footer.html %}
 
