@@ -24,12 +24,14 @@ layout: default
           {{ content }}
         </div>
 
-        {% if site.disqus.shortname %}
-          {% include disqus_comments.html %}
-        {% endif %}
-
       </article>
 
     </div>
+
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
   </div>
+
 </section>
