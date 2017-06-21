@@ -19,10 +19,8 @@ create pages in Markdown, push them to Github, and they're live!
 Right now I'm just learning more of Jekyll's structure, which involves a bit of
 Ruby, Sass, and Liquid.
 
-If you'd like to learn more about me, visit my [About] page.
-You can also check out my [Projects].
+Click [here] to view my projects.
 
 Thanks for stopping by!
 
-[About]: {{ site.url }}{% link navigation/about.md %}
-[Projects]: {{ site.url }}{% link navigation/projects.md %}
+[here]: {{ site.url }}{% link navigation/projects.md %}

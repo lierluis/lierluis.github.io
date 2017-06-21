@@ -26,11 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lierluis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lierluis
 github_username:  lierluis
+linkedin_username: lierluis
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
   - jemoji

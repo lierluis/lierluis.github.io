@@ -1,0 +1,23 @@
+<section class="hero is-primary is-bold">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title">
+        {{ page.hero-title | default: site.title }}
+      </h1>
+      <h2 class="subtitle">
+        {{ page.hero-subtitle | default: page.description | default: site.description }}
+      </h2>
+      <p>
+        <a class="icon is-large" href="https://github.com/{{ site.github_username }}">
+          <i class="fa fa-github"></i>
+        </a>
+        <a class="icon is-large" href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a class="icon is-large" href="https://linkedin.com/in/{{ site.linkedin_username }}">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </p>
+    </div>
+  </div>
+</section>
