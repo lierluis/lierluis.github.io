@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<form method="POST" action="http://formspree.io/luis.es@yahoo.com">
+<form method="POST" action="https://formspree.io/luis.es@yahoo.com">
 
   <!-- FROM -->
   <div class="field is-horizontal">
