@@ -5,13 +5,15 @@
 layout: home
 ---
 
-I'm a software engineer looking to start my career in the software industry.
+I'm an aspiring software engineer with a passion for technology.
 
-I graduated from San Francisco State University with a B.S. in Computer Science.
+I recently graduated from San Francisco State University with a B.S. in Computer
+Science, where I started with zero knowledge of programming and finished as tech
+lead of my last team project.
 
-In school I worked on a few team projects, from being a front-end developer
-to being technical lead.
+I have about 4 years of programming experience and am currently looking for new
+opportunities in the industry.
 
-Check out [my projects] to learn more.
+If you'd like to see some of my work, check out my [projects].
 
-[my projects]: {{ site.url }}{% link navigation/projects.md %}
+[projects]: {{ site.url }}{% link navigation/projects.md %}
