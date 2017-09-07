@@ -5,14 +5,16 @@
 layout: home
 ---
 
-I'm an aspiring software engineer with a passion for technology.
+I'm an aspiring software engineer with a passion for technology and programming.
 
 I recently graduated from San Francisco State University with a B.S. in Computer
-Science, where I started with zero knowledge of programming and finished as tech
-lead of my last team project.
+Science, and have over 3 years of programming experience.
 
-I have about 4 years of programming experience and am currently looking for new
-opportunities in the industry.
+I also recently graduated from the Mission Techies program at MEDA where I
+prepared for a professional career in the tech industry.
+
+I'm currently looking for new opportunities to continue my career in software
+development.
 
 If you'd like to see some of my work, check out my [projects].
 
