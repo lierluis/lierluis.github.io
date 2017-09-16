@@ -34,10 +34,11 @@ UML diagrams, APIs, key risks, team organization, vertical prototype
 * Tools: NetBeans, MySQL Workbench, PuTTY, AWS, Git
 
 **See more:**
+* [Link to website](http://shopu-env.bzwc52z8ia.us-west-2.elasticbeanstalk.com/)
 * [View on Github](https://github.com/lierluis/shopu)
 * [Original documentation](https://goo.gl/ml0ohg)
 
 **Note:** The website was hosted on the class server, but has since been
-taken down.
+taken down. I'm currently in the process of deploying it back to AWS.
 
 [MINI]: https://github.com/panique/mini
