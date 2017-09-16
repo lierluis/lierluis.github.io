@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I'm an aspiring software engineer with a passion for technology and programming.
+I'm a software engineer with a passion for technology and programming.
 
 I recently graduated from San Francisco State University with a B.S. in Computer
 Science, and have over 3 years of programming experience.
