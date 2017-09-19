@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<p class="title">About me</p>
 
 I'm a software engineer with a passion for technology and programming.
 
