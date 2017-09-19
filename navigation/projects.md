@@ -6,7 +6,6 @@ permalink: /projects/
 
 <div class="tile is-ancestor">
   <div class="tile is-parent is-6">
-    <!-- Add content or other tiles -->
     <div class="tile is-child box">
       <p class="title">
         <a href="{{ site.url }}{% link projects/shopu.md %}">
@@ -28,8 +27,8 @@ permalink: /projects/
       </p>
     </div>
   </div>
+
   <div class="tile is-parent is-6">
-    <!-- Add content or other tiles -->
     <div class="tile is-child box">
       <p class="title">
         <a href="{{ site.url }}{% link projects/exploding-kittens.md %}">
@@ -49,8 +48,9 @@ permalink: /projects/
         Apr 2016 - Jun 2016
       </p>
     </div>
-  </div>
+  </div>  
 </div>
+
 <div class="tile is-ancestor">
   <div class="tile is-parent is-6">
     <div class="tile is-child box">
@@ -74,6 +74,7 @@ permalink: /projects/
       </p>
     </div>
   </div>
+
   <div class="tile is-parent is-6">
     <div class="tile is-child box">
       <p class="title">
