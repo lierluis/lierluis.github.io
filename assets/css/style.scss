@@ -9,7 +9,9 @@
 /*** BULMA ***/
 
 // base
+@import 'bulma/utilities/_all';
 @import 'bulma/base/_all';
+@import 'bulma/layout/_all';
 
 // components
 @import 'bulma/components/nav';
@@ -26,9 +28,3 @@
 
 // grid
 @import 'bulma/grid/tiles';
-
-// layout
-@import 'bulma/layout/_all';
-
-// utilities
-@import 'bulma/utilities/_all';
