@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: project
 title: "Exploding Kittens"
+github-url: https://github.com/lierluis/ExplodingKittens
 ---
 
 Exploding Kittens is an online turn-based card game developed using

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: project
 title: "ParkSF"
+github-url: https://github.com/lierluis/ParkSF
 ---
 
 ParkSF is an Android mobile application that allows users to find and interact

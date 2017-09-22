@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: project
 title: "ShopU"
+github-url: https://github.com/lierluis/ShopU
 ---
 
 ShopU is a mock e-commerce website that provides consumer-to-consumer sales
