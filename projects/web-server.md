@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Static web server"
-github-url: https://github.com/lierluis/667-web-server
+github-url: https://github.com/lierluis/static-web-server
 ---
 
 This project was a multithreaded static web server written purely in Ruby, which
