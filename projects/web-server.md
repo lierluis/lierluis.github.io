@@ -23,5 +23,5 @@ The project lasted from February to April 2016.
 * Ruby, HTML
 
 **See more:**
-* [View on Github](https://github.com/lierluis/667-web-server)
+* [View on Github]({{ page.github-url }})
 * [Original documentation](https://goo.gl/0d0PWk)

@@ -22,6 +22,7 @@ June 2016.
 * Gems: PostgreSQL, Devise, Pusher
 
 **See more:**
+* [View on Github]({{ page.github-url }})
 * [Final presentation slides](https://goo.gl/uqdOK1)
 
 **Note:** The game was developed strictly for educational purposes. Seeing as

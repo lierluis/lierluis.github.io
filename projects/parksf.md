@@ -33,7 +33,7 @@ locations. The project lasted from February to May 2015.
 * Tools: Android Studio, Git
 
 **See more:**
-* [View on Github](https://github.com/lierluis/parksf)
+* [View on Github]({{ page.github-url }})
 * [Original documentation](https://goo.gl/zowXtv)
 
 **Note:** Developed with Android Studio 1.2 (2015). Not currently maintained.

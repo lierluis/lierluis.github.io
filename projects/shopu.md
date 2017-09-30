@@ -36,7 +36,7 @@ UML diagrams, APIs, key risks, team organization, vertical prototype
 
 **See more:**
 * [Link to website](http://shopu-env.bzwc52z8ia.us-west-2.elasticbeanstalk.com/)
-* [View on Github](https://github.com/lierluis/shopu)
+* [View on Github]({{ page.github-url }})
 * [Original documentation](https://goo.gl/ml0ohg)
 
 **Note:** The website was hosted on the class server, but has since been
