@@ -42,7 +42,7 @@ UML diagrams, APIs, key risks, team organization, vertical prototype
 * LAMP stack (PHP, MySQL), HTML, CSS, JavaScript
 * Frameworks/Libraries: [MINI], Bootstrap, jQuery
 * jQuery plugins: DataTables, jQuery Validation
-* Tools: NetBeans, MySQL Workbench, PuTTY, AWS, Git
+* Tools: NetBeans, MySQL Workbench, PuTTY, AWS, Git, Gitlab
 
 **See more:**
 * [Link to website](http://shopu-env.bzwc52z8ia.us-west-2.elasticbeanstalk.com/)
