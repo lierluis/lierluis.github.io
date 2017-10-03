@@ -12,6 +12,16 @@ through a series of milestones from June to August 2016, in which I was part of
 a simulated upcoming startup company comprised of six members, and my
 professors acted as the company's CEO, CTO, VP of Marketing, and customers.
 
+**My contributions:**
+* Implemented searching, buying, selling, and user registration (PHP sessions)
+functionalities
+* Contributed to MVC architecture, database schema, UI design, site robustness,
+and project documentation
+* Achieved 100% speed improvement of search queries involving BLOBs by
+paginating search results
+* Received promotion to technical lead by team lead for leading and assisting
+team with technology stack used
+
 **Concepts:**
 * Principles of software engineering and organizational teamwork
 * Software development life cycle
