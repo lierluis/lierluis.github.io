@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "Exploding Kittens"
 github-url: https://github.com/lierluis/ExplodingKittens
 ---
