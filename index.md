@@ -9,7 +9,9 @@ layout: home
   <!-- One -->
   <section id="one" class="wrapper spotlight style1">
     <div class="inner">
-      <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+      <a href="https://linkedin.com/in/{{ site.linked_username }}" class="image">
+        <img src="{{ "/assets/img/Luis_Estrada.jpg" }}" alt="Me" />
+      </a>
       <div class="content">
         <h2 class="major">About me</h2>
         <p>
