@@ -23,7 +23,7 @@ layout: home
         I'm currently looking for new opportunities to continue my career
         in software development.
         </p>
-        <a href="#" class="special">Learn more</a>
+        <a href="https://linkedin.com/in/{{ site.linked_username }}" class="special">Learn more</a>
       </div>
     </div>
   </section>
