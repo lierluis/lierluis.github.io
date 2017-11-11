@@ -20,7 +20,6 @@ layout: home
         where I prepared for a professional career in the tech industry.
         I'm currently looking for new opportunities to continue my career
         in software development.
-        If you'd like to see some of my work, check out my <a href="{{ site.url }}{% link navigation/projects.md %}">projects</a>.
         </p>
         <a href="#" class="special">Learn more</a>
       </div>
