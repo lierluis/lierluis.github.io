@@ -1,26 +1,23 @@
-<nav class="nav has-shadow">
-  <div class="container">
-    <div class="nav-left">
-      <a class="nav-item" href="{{ "/" | relative_url }}">
-        {{ site.author | escape }}
-      </a>
-    </div>
+<!-- Header -->
+<header id="header" class="alt">
+  <h1><a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a></h1>
+  <nav>
+    <a href="#menu">Menu</a>
+  </nav>
+</header>
 
-    <!-- This "nav-toggle" hamburger menu is only visible on mobile -->
-    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
-    <span class="nav-toggle">
-      <span></span>
-      <span></span>
-      <span></span>
-    </span>
-
-    <!-- This "nav-menu" is hidden on mobile -->
-    <!-- Add the modifier "is-active" to display it on mobile -->
-    <div class="nav-right nav-menu">
-      <a class="nav-item" href="{{ "/" | relative_url }}">Home</a>
-      <a class="nav-item" href="{{ site.baseurl }}{% link navigation/projects.md %}">Projects</a>
-      <a class="nav-item" href="{{ site.baseurl }}{% link navigation/blog.md %}">Blog</a>
-      <a class="nav-item" href="{{ site.baseurl }}{% link navigation/contact.md %}">Contact</a>
-    </div>
+<!-- Menu -->
+<nav id="menu">
+  <div class="inner">
+    <h2>Menu</h2>
+    <ul class="links">
+      <li><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li><a href="{{ site.baseurl }}{% link navigation/projects.md %}">Projects</a></li>
+      <li><a href="{{ site.baseurl }}{% link navigation/blog.md %}">Blog</a></li>
+      <li><a href="{{ site.baseurl }}{% link navigation/contact.md %}">Contact</a></li>
+      <li><a href="generic.html">Generic</a></li>
+      <li><a href="elements.html">Elements</a></li>
+    </ul>
+    <a href="#" class="close">Close</a>
   </div>
 </nav>
