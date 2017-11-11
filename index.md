@@ -67,7 +67,7 @@ layout: home
         </article>
       </section>
       <ul class="actions">
-        <li><a href="#" class="button">Browse All</a></li>
+        <li><a href="{{ site.url }}{% link navigation/projects.md %}" class="button">Browse All</a></li>
       </ul>
     </div>
   </section>
