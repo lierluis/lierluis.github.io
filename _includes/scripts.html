@@ -1,11 +1,6 @@
-<!-- navbar toggle -->
-<script>
-  $(document).ready(function() {
-    $('.nav-toggle').click(function(e) {
-      $(this).toggleClass('is-active');
-      $('.nav-menu').toggleClass('is-active');
-
-      e.preventDefault();
-    });
-  });
-</script>
+<script src="{{ "/assets/js/skel.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/util.js" | relative_url }}"></script>
+<!--[if lte IE 8]><script src="{{ "/assets/js/ie/respond.min.js" | relative_url }}"></script><![endif]-->
+<script src="{{ "/assets/js/main.js" | relative_url }}"></script>

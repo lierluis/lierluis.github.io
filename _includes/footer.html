@@ -1,20 +1,45 @@
-<footer class="footer">
-  <div class="container">
-    <div class="content has-text-centered">
-      <p>
-        <a class="icon" href="https://github.com/{{ site.github_username }}">
-          <i class="fa fa-github"></i>
-        </a>
-        <a class="icon" href="https://linkedin.com/in/{{ site.linkedin_username }}">
-          <i class="fa fa-linkedin"></i>
-        </a>
-        <a class="icon" href="https://twitter.com/{{ site.twitter_username }}">
-          <i class="fa fa-twitter"></i>
-        </a>
-      </p>
-      <p>
-        © 2017 {{ site.author }}
-      </p>
-    </div>
+<section id="footer">
+  <div class="inner">
+    <h2 class="major">Contact</h2>
+
+    <form method="post" action="https://formspree.io/{{ site.email }}">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" />
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="4"></textarea>
+      </div>
+      <input type="text" name="_gotcha" style="display:none" />
+      <ul class="actions">
+        <li><input type="submit" value="Send Message" /></li>
+      </ul>
+    </form>
+
+    <ul class="contact">
+      <li class="fa-home">
+        San Francisco Bay Area
+      </li>
+      <li class="fa-envelope">
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </li>
+      <li class="fa-linkedin">
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">linkedin.com/in/{{ site.linkedin_username }}</a>
+      </li>
+      <li class="fa-github">
+        <a href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username}}</a>
+      </li>
+      <li class="fa-twitter">
+        <a href="https://twitter.com/{{ site.twitter_username}}">twitter.com/{{ site.twitter_username}}</a>
+      </li>
+    </ul>
+    <ul class="copyright">
+      <li>&copy; 2017 {{ site.author }}. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+    </ul>
   </div>
-</footer>
+</section>

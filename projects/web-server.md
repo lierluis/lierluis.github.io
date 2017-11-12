@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "Static web server"
 github-url: https://github.com/lierluis/static-web-server
 ---

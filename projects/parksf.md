@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "ParkSF"
 github-url: https://github.com/lierluis/ParkSF
 ---
