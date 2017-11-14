@@ -13,20 +13,15 @@ a simulated upcoming startup company comprised of six members, and my
 professors acted as the company's CEO, CTO, VP of Marketing, and customers.
 
 #### My contributions:
-* Implemented searching, buying, selling, and user registration (PHP sessions)
-functionalities
-* Contributed to MVC architecture, database schema, UI design, site robustness,
-and project documentation
-* Achieved 100% speed improvement of search queries involving BLOBs by
-paginating search results
-* Received promotion to technical lead by team lead for leading and assisting
-team with technology stack used
+* Implemented searching, buying, selling, and user registration (PHP sessions) functionalities
+* Contributed to the MVC architecture, database schema, UI design, and project documentation
+* Achieved 100% speed improvement of search queries involving BLOBs by paginating search results
+* Received promotion to technical lead by team lead for aiding team with technology stack used
 
 #### Concepts:
 * Principles of software engineering and organizational teamwork
 * Software development life cycle
-    * Approaches: Agile methodology, Iterative and Incremental development,
-    Prototyping
+    * Approaches: Agile methodology, Iterative and Incremental development, Prototyping
 * User-centered design
 
 #### Milestones:
@@ -36,13 +31,13 @@ competitive analysis, high-level system architecture
 UML diagrams, APIs, key risks, team organization, vertical prototype
 3. Feedback on teamwork, coding practices, and horizontal prototype
 4. Beta launch, usability and QA tests, code review
-5. Team member contributions, key challenges, final demo and delivery
+5. Final demo and delivery
 
 #### Technologies:
 * LAMP stack (PHP, MySQL), HTML, CSS, JavaScript
 * Frameworks/Libraries: [MINI], Bootstrap, jQuery
 * jQuery plugins: DataTables, jQuery Validation
-* Tools: NetBeans, MySQL Workbench, PuTTY, AWS, Git, Gitlab
+* Tools: NetBeans, MySQL Workbench, PuTTY, AWS (EB, RDS), Git, Gitlab
 
 #### See more:
 * [Link to website](http://shopu-env.bzwc52z8ia.us-west-2.elasticbeanstalk.com/)
