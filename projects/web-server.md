@@ -15,13 +15,14 @@ The project lasted from February to April 2016.
 
 [Web server workflow (PDF)]({{ site.url }}{% link assets/file/web-server-workflow.pdf %})
 
-**Concepts:**
+#### Concepts:
 * Hypertext Transfer Protocol (HTTP)
 * Client-server architecture
 
-**Technologies:**
+#### Technologies:
 * Ruby, HTML
+* Tools: Git, GitHub
 
-**See more:**
+#### See more:
 * [View on Github]({{ page.github-url }})
 * [Original documentation](https://goo.gl/0d0PWk)
