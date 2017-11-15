@@ -43,4 +43,28 @@ permalink: /projects/
     <p>Android mobile app that allows users to find and interact with data on parking locations around downtown SF.<br>Feb 2015 - May 2015</p>
     <a href="#" class="special">Learn more</a>
   </article>
+  <article>
+    <a href="https://github.com/lierluis/MyShell" class="image">
+      <img src="{{ "/assets/img/myshell.jpg" | relative_url }}" alt="MyShell screenshot" />
+    </a>
+    <h3 class="major">MyShell</h3>
+    <p>Mock unix shell / REPL that reads and executes user commands.<br>Dec 2015</p>
+    <a href="#" class="special">Learn more</a>
+  </article>
+  <article>
+    <a href="https://github.com/lierluis/DES_ECB_CBC" class="image">
+      <img src="{{ "/assets/img/encryption.jpg" | relative_url }}" alt="Encryption photo" />
+    </a>
+    <h3 class="major">DES encryption</h3>
+    <p>Data Encryption Standard (DES) encryption algorithm and block cipher modes ECB and CBC.<br>Feb 2016</p>
+    <a href="#" class="special">Learn more</a>
+  </article>
+  <article>
+    <a href="https://github.com/lierluis/lierluis.github.io" class="image">
+      <img src="{{ "/assets/img/lierluis-website.jpg" | relative_url }}" alt="Website screenshot" />
+    </a>
+    <h3 class="major">Personal website</h3>
+    <p>My website showcasing my portfolio and blog.<br>May 2017 - Present</p>
+    <a href="#" class="special">Learn more</a>
+  </article>
 </section>
