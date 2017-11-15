@@ -1701,6 +1701,10 @@
 		text-decoration: none;
 	}
 
+		.social-links a {
+			border-bottom: 0;
+		}
+
 		a:hover {
 			border-bottom-color: transparent;
 			color: #ffffff !important;
