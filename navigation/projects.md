@@ -23,7 +23,7 @@ permalink: /projects/
     <a href="{{ site.url }}{% link projects/exploding-kittens.md %}" class="image">
       <img src="{{ "/assets/img/exploding-kittens.jpg" | relative_url }}" alt="Exploding Kittens screenshot" />
     </a>
-    <h3 class="major">Exploding Kittens card game</h3>
+    <h3 class="major">Exploding Kittens</h3>
     <p>Online turn-based card game based on the game of the same name.<br>Apr 2016 - Jun 2016</p>
     <a href="#" class="special">Learn more</a>
   </article>
@@ -39,7 +39,7 @@ permalink: /projects/
     <a href="{{ site.url }}{% link projects/parksf.md %}" class="image">
       <img src="{{ "/assets/img/parksf.jpg" | relative_url }}" alt="ParkSF splash screen" />
     </a>
-    <h3 class="major">ParkSF Android app</h3>
+    <h3 class="major">ParkSF</h3>
     <p>Android mobile app that allows users to find and interact with data on parking locations around downtown SF.<br>Feb 2015 - May 2015</p>
     <a href="#" class="special">Learn more</a>
   </article>
