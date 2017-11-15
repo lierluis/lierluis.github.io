@@ -1701,10 +1701,6 @@
 		text-decoration: none;
 	}
 
-		.social-links a {
-			border-bottom: 0;
-		}
-
 		a:hover {
 			border-bottom-color: transparent;
 			color: #ffffff !important;
@@ -3134,13 +3130,16 @@
 			#banner .logo .icon {
 				border-radius: 100%;
 				border: solid 2px rgba(255, 255, 255, 0.125);
-				cursor: default;
 				display: inline-block;
 				font-size: 2em;
 				height: 2.25em;
 				line-height: 2.25em;
 				text-align: center;
 				width: 2.25em;
+			}
+
+			#banner .logo a {
+				border-bottom: none;
 			}
 
 		#banner h2 {
