@@ -8,4 +8,3 @@ Technologies:
 * [Formspree](https://formspree.io/)
 * [Disqus](https://disqus.com/)
 * [Font Awesome](http://fontawesome.io/)
-* [GitHub Corners](http://tholman.com/github-corners/)
