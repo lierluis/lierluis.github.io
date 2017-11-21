@@ -34,7 +34,7 @@ with others and using version control. The project lasted from February to May 2
 * Tools: Android Studio, Git, GitHub
 
 #### See more:
-* [View on Github]({{ page.github-url }})
+* [View on GitHub]({{ page.github-url }})
 * [Original documentation](https://goo.gl/zowXtv)
 
 #### Note:

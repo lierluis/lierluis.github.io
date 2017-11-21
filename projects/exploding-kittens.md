@@ -18,11 +18,12 @@ June 2016.
 
 #### Technologies:
 * Ruby, HTML, CSS, JavaScript
-* Frameworks/Libraries/Tools: Ruby on Rails, Bootstrap, jQuery, Heroku
+* Frameworks/Libraries: Ruby on Rails, Bootstrap, jQuery
+* Tools: Git, GitHub, Heroku
 * Gems: PostgreSQL, Devise, Pusher
 
 #### See more:
-* [View on Github]({{ page.github-url }})
+* [View on GitHub]({{ page.github-url }})
 * [Final presentation slides](https://goo.gl/uqdOK1)
 
 #### Note:

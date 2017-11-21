@@ -24,5 +24,5 @@ The project lasted from February to April 2016.
 * Tools: Git, GitHub
 
 #### See more:
-* [View on Github]({{ page.github-url }})
+* [View on GitHub]({{ page.github-url }})
 * [Original documentation](https://goo.gl/0d0PWk)
