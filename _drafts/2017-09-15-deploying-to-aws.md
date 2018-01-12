@@ -60,7 +60,7 @@ I realized I wasn't allowing the database to be accessed from within its
 security group! (thx stackoverflow)
 * When deploying with Elastic Beanstalk, make sure to upload the ZIP file of
 the <em>contents</em> of the project, as opposed to the ZIP file of the
-<em>folder</em> containing the contents (downloading ZIP file from Github
+<em>folder</em> containing the contents (downloading ZIP file from GitHub
 will be the latter!)
 
 <!-- Links -->
