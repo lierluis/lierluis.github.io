@@ -13,13 +13,17 @@ layout: home
       <div class="content">
         <h2 class="major">About me</h2>
         <p>
-        I'm a software engineer with a passion for technology and programming.
-        I recently graduated from San Francisco State University with a B.S. in
-        Computer Science, and have over 3 years of programming experience.
-        I also recently graduated from the Mission Techies program at MEDA
-        where I prepared for a professional career in the tech industry.
-        I'm currently looking for new opportunities to continue my career
-        in software development.
+        Hi! My name's Luis Estrada and I'm a software engineer.
+        I grew up in the Bay Area and for as long as I can remember,
+        I've always loved working with computers.
+        I decided after high school that I wanted to study computer science,
+        so I went to earn my Bachelor's degree in CS at San Francisco State University.
+        Afterwards, I joined the Mission Techies training program at MEDA
+        which provided me with professional skills necessary to acquire a job in the technology sector.
+        I am considering returning to school to gain further technical knowledge and experience,
+        but in the meantime,
+        I've been continuing my studies on my own as well as with dev/Mission,
+        and am currently looking for new opportunities in IT and software development.
         </p>
         <a href="https://linkedin.com/in/{{ site.linked_username }}" class="special">Learn more</a>
       </div>
@@ -31,7 +35,11 @@ layout: home
     <div class="inner">
       <h2 class="major">Projects</h2>
       <p>
-        A list of personal and school projects I've worked on.
+        During my time at SFSU, I worked on many projects, four of which were team-oriented.
+        I've built an Android app, a static web server, an online card game,
+        and for my last project, I worked on an e-commerce website as the lead developer of my team.
+      </p>
+      <p>
         To see more, check out my <a href="https://github.com/{{ site.github_username }}">GitHub</a>.
       </p>
       <section class="features">
@@ -40,7 +48,7 @@ layout: home
             <img src="{{ "/assets/img/shopu-mod.jpg" | relative_url }}" alt="ShopU logo" />
           </a>
           <h3 class="major">ShopU</h3>
-          <p>Mock e-commerce website that provides consumer-to-consumer sales services to SFSU students.<br>Jun 2016 - Aug 2016</p>
+          <p>E-commerce website that provides consumer-to-consumer sales services to SFSU students.<br>Jun 2016 - Aug 2016</p>
           <a href="{{ site.url }}{% link projects/shopu.md %}" class="special">Learn more</a>
         </article>
         <article>
