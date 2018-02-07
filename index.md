@@ -35,12 +35,7 @@ layout: home
     <div class="inner">
       <h2 class="major">Projects</h2>
       <p>
-        During my time at SFSU, I worked on many projects, four of which were team-oriented.
-        I've built an Android app, a static web server, an online card game,
-        and for my last project, I worked on an e-commerce website as the lead developer of my team.
-      </p>
-      <p>
-        To see more, check out my <a href="https://github.com/{{ site.github_username }}">GitHub</a>.
+        To see more of my projects, check out my <a href="https://github.com/{{ site.github_username }}">GitHub</a>.
       </p>
       <section class="features">
         <article>
