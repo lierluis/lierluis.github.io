@@ -25,7 +25,7 @@ layout: home
         <br>
         I'm currently looking for new opportunities to reach my goal of being a full-stack developer and to help your teams build great products.
         </p>
-        <a href="https://linkedin.com/in/{{ site.linked_username }}" class="special">Learn more</a>
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" class="special">Learn more</a>
       </div>
     </div>
   </section>
