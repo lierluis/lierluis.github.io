@@ -55,12 +55,12 @@ layout: home
           <a href="https://github.com/lierluis/ExplodingKittens" class="special">Learn more</a>
         </article>
         <article>
-          <a href="{{ site.url }}{% link projects/web-server.md %}" class="image">
+          <a href="https://github.com/lierluis/static-web-server" class="image">
             <img src="{{ "/assets/img/server-workflow.png" | relative_url }}" alt="Server workflow diagram" />
           </a>
           <h3 class="major">Static web server</h3>
           <p>Multithreaded static web server written in Ruby to learn about the HTTP protocol.<br>Feb 2016 - Apr 2016</p>
-          <a href="{{ site.url }}{% link projects/web-server.md %}" class="special">Learn more</a>
+          <a href="https://github.com/lierluis/static-web-server" class="special">Learn more</a>
         </article>
         <article>
           <a href="{{ site.url }}{% link projects/parksf.md %}" class="image">
