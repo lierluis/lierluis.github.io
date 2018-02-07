@@ -24,5 +24,3 @@ If you'd like to know more of the work I've done,
 click [here] to view my projects.
 
 Thanks for stopping by!
-
-[here]: {{ site.url }}{% link navigation/projects.md %}
