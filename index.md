@@ -13,17 +13,17 @@ layout: home
       <div class="content">
         <h2 class="major">About me</h2>
         <p>
-        Hi! My name's Luis Estrada and I'm a software engineer.
-        I grew up in the Bay Area and for as long as I can remember,
-        I've always loved working with computers.
-        I decided after high school that I wanted to study computer science,
-        so I went to earn my Bachelor's degree in CS at San Francisco State University.
-        Afterwards, I joined the Mission Techies training program at MEDA
-        which provided me with professional skills necessary to acquire a job in the technology sector.
-        I am considering returning to school to gain further technical knowledge and experience,
-        but in the meantime,
-        I've been continuing my studies on my own as well as with dev/Mission,
-        and am currently looking for new opportunities in IT and software development.
+        Hi! I'm Luis. I'm a software developer from the Bay Area and I love to code.
+        <br>
+        I studied at San Francisco State University where I learned many of the fundamentals of Computer Science and gained lots of experience working collaboratively with others.
+        <br>
+        I started school with very little exposure to coding and ended up finishing my capstone Software Engineering course as lead developer of my team.
+        <br>
+        After graduating, I joined the Mission Techies training program at MEDA to further sharpen my technical and professional skills.
+        <br>
+        Lately, I've been teaching myself new technologies and am taking a course on Udacity as part of the Grow with Google scholarship for Front-End Development.
+        <br>
+        I'm currently looking for new opportunities to reach my goal of being a full-stack developer and to help your teams build great products.
         </p>
         <a href="https://linkedin.com/in/{{ site.linked_username }}" class="special">Learn more</a>
       </div>
