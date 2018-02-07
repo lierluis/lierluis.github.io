@@ -47,12 +47,12 @@ layout: home
           <a href="{{ site.url }}{% link projects/shopu.md %}" class="special">Learn more</a>
         </article>
         <article>
-          <a href="https://github.com/lierluis/exploding-kittens" class="image">
+          <a href="https://github.com/lierluis/ExplodingKittens" class="image">
             <img src="{{ "/assets/img/exploding-kittens.jpg" | relative_url }}" alt="Exploding Kittens screenshot" />
           </a>
           <h3 class="major">Exploding Kittens card game</h3>
           <p>Online turn-based card game based on the game of the same name.<br>Apr 2016 - Jun 2016</p>
-          <a href="https://github.com/lierluis/exploding-kittens" class="special">Learn more</a>
+          <a href="https://github.com/lierluis/ExplodingKittens" class="special">Learn more</a>
         </article>
         <article>
           <a href="{{ site.url }}{% link projects/web-server.md %}" class="image">
