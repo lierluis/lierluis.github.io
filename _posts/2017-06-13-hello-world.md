@@ -21,6 +21,6 @@ Right now I'm just learning more of Jekyll's structure, which involves a bit of
 Ruby, Sass, and Liquid.
 
 If you'd like to know more of the work I've done,
-click [here] to view my projects.
+click [here]({{ site.url }}#two) to view my projects.
 
 Thanks for stopping by!
