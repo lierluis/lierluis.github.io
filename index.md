@@ -63,12 +63,12 @@ layout: home
           <a href="https://github.com/lierluis/static-web-server" class="special">Learn more</a>
         </article>
         <article>
-          <a href="{{ site.url }}{% link projects/parksf.md %}" class="image">
+          <a href="https://github.com/lierluis/ParkSF" class="image">
             <img src="{{ "/assets/img/parksf.jpg" | relative_url }}" alt="ParkSF splash screen" />
           </a>
           <h3 class="major">ParkSF Android app</h3>
           <p>Android mobile app that allows users to find and interact with data on parking locations around downtown SF.<br>Feb 2015 - May 2015</p>
-          <a href="{{ site.url }}{% link projects/parksf.md %}" class="special">Learn more</a>
+          <a href="https://github.com/lierluis/ParkSF" class="special">Learn more</a>
         </article>
         <article>
           <a href="https://github.com/lierluis/MyShell" class="image">
