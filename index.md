@@ -34,9 +34,6 @@ layout: home
   <section id="two" class="wrapper alt style1">
     <div class="inner">
       <h2 class="major">Projects</h2>
-      <p>
-        To see more of my projects, check out my <a href="https://github.com/{{ site.github_username }}">GitHub</a>.
-      </p>
       <section class="features">
         <article>
           <a href="{{ site.url }}{% link projects/shopu.md %}" class="image">
