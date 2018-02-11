@@ -36,12 +36,12 @@ layout: home
       <h2 class="major">Projects</h2>
       <section class="features">
         <article>
-          <a href="{{ site.url }}{% link projects/shopu.md %}" class="image">
+          <a href="https://github.com/lierluis/ShopU" class="image">
             <img src="{{ "/assets/img/shopu-mod.jpg" | relative_url }}" alt="ShopU logo" />
           </a>
           <h3 class="major">ShopU</h3>
           <p>E-commerce website that provides consumer-to-consumer sales services to SFSU students.<br>Jun 2016 - Aug 2016</p>
-          <a href="{{ site.url }}{% link projects/shopu.md %}" class="special">Learn more</a>
+          <a href="https://github.com/lierluis/ShopU" class="special">Learn more</a>
         </article>
         <article>
           <a href="https://github.com/lierluis/ExplodingKittens" class="image">
