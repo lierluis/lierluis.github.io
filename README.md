@@ -8,3 +8,4 @@ Technologies:
 * [Formspree](https://formspree.io/)
 * [Disqus](https://disqus.com/)
 * [Font Awesome](http://fontawesome.io/)
+* [AWS](https://aws.amazon.com/) (EC2, EB, RDS)
