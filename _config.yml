@@ -24,7 +24,7 @@ role: Software Engineer
 description: > # this means to ignore newlines until "baseurl:"
   Luis Ignacio Estrada, Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://luisestrada.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://luisiestrada.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lierluis
 github_username:  lierluis
 linkedin_username: lierluis
