@@ -13,7 +13,7 @@ layout: home
       <div class="content">
         <h2 class="major">About me</h2>
         <p>
-        Hi! I'm Luis. I'm from the Bay Area and I love working with technology.
+        IT Professional from the Bay Area who loves working with technology.
         <br>
         I studied at San Francisco State University where I learned many of the fundamentals of Computer Science and gained experience working collaboratively with others.
         <br>
