@@ -32,6 +32,7 @@ linkedin_username: luisiestrada
 # Build settings
 markdown: kramdown
 highlighter: rouge
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jemoji
