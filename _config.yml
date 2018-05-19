@@ -41,3 +41,5 @@ exclude:
 google_analytics: UA-101001911-1
 disqus:
     shortname: lierluis
+
+theme: jekyll-theme-hacker
